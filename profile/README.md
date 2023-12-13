@@ -1,0 +1,3 @@
+# Oh, so you found this studio...
+## Well, when you are already here, read our About-Us
+<https://stoppedwumm-studios.github.io/about-us/>
